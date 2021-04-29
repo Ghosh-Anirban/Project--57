@@ -1,0 +1,16 @@
+body {
+    background-color:bisque ;
+}
+.line {
+height: 6px;
+width: 70px;
+background-color: #000;
+margin: 8px auto;
+}
+#img {
+border-radius: 50%;
+}
+#pg {
+padding-left: 75px;
+padding-right: 75px;
+}
